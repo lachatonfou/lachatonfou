@@ -21,6 +21,8 @@ Vanessa Automation
 <img width="100" height="100" alt="Github Actions" title="Github Actions" src="https://github.com/user-attachments/assets/d9b5af59-6f8a-4d26-9cf3-c125b3d51972" />
 <img width="100" height="100" alt="Android Studio" title="Android Studio" src="https://github.com/user-attachments/assets/99e0204c-6720-43e1-abc3-1ce9710b4421" />
 <img width="100" height="100" alt="Docker" title="Docker" src="https://github.com/user-attachments/assets/23551309-43a4-4e62-bd6f-489d55e8294c" />
+<img width="100" height="100" alt="Jenkins" title="Jenkins" src="https://github.com/user-attachments/assets/09324a9a-d6ee-4917-8dc3-c7440c65d37f" />
+
 
 Языки:
 * 1C
