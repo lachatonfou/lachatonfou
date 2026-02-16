@@ -7,8 +7,9 @@
 🛠️ С чем работаю:
 
 <img width="100" height="78" alt="1С" title="1С" src="https://github.com/user-attachments/assets/4f550db7-c502-4fe6-940d-3cb94b9fe3f3" />
++ Vanessa Automation
 <img width="100" height="100" alt="EDT" title="EDT" src="https://github.com/user-attachments/assets/ef63b998-f29c-4a94-b346-c4746f04aadb" />
-Vanessa Automation
+
 
 <img width="100" height="100" alt="Postman" title="Postman" src="https://github.com/user-attachments/assets/e0209df9-c46a-45d0-b062-96ec3361ade2" />
 <img width="100" height="100" alt="Intellij IDEA" title="Intellij IDEA" src="https://github.com/user-attachments/assets/5cb0f36c-109b-4541-975b-df63d2ea89cd" />
